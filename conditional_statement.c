@@ -3,6 +3,7 @@
 
 int main() {
   int marks;
+  printf("Enter your marks: "); \\ On the behalf of your marks you can select your specialisation.
   scanf("%d",&marks);
 
   if (marks>=85 && marks<=100) {
