@@ -18,7 +18,7 @@ int main() {
     printf("You are not eligibke for any of the specialization, First clear your Backlog");
   }
   else {
-    printf("Invalid input")
+    printf("Invalid input");
       }
 
   return 0;
