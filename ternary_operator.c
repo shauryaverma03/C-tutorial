@@ -7,3 +7,6 @@ int main() {
   age >= 18 ? printf("You are Eligible to Vote") : printf("You are Not Eligible to Vote");
   return 0;
 }
+
+
+// Example of teranary operator
