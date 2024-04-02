@@ -1,4 +1,4 @@
-# include <sdtio.h>
+# include <stdio.h>
 
 // Find your Grade.
 int main() {
