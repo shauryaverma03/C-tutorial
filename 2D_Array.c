@@ -2,7 +2,7 @@
 
 int main() {
   int n;
-  printf("Enter the number of row & coloumn matrix you want to form: );
+  printf("Enter the number of row & coloumn matrix you want to form: ");
   scanf("%d",&n);
 
   int arr[n][n];
