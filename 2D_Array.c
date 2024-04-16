@@ -11,10 +11,12 @@ int main() {
       scanf("%d",&arr[i][j]);
     }
   }
+  printf("\n");
 
+  printf("%d X %d Matrix: ");
   for (int i=0; i<n; i++) {
     for (int j=0; j<n; j++) {
-      printf("%d ",arr[i][i]);
+      printf("%d ",arr[i][j]);
     }
     printf("\n");
   }
